@@ -87,3 +87,5 @@ Installation & Execution
     DAO/Service Interfaces: Implement interface-driven design (e.g., UserDAO interface with UserDAOImpl class) for greater architectural flexibility.
 
     Password Hashing: Integrate security measures for storing user passwords safely.
+
+Note : The above content is Ai generated.
